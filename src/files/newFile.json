@@ -1,0 +1,23 @@
+{
+  "id": 11,
+  "name": "Leonida Gant",
+  "username": "eLeGant",
+  "email": "legant@gmail.com",
+  "address": {
+    "street": "Wood Night",
+    "suite": "Apt. 390",
+    "city": "Hawswagegh",
+    "zipcode": "12997-4567",
+    "geo": {
+      "lat": "-40.3195",
+      "lng": "41.1531"
+    }
+  },
+  "phone": "1-331-148-5463 x56425",
+  "website": "ragnarlockbrok.org",
+  "company": {
+    "name": "Mersedesa-Brabusivan",
+    "catchPhrase": "Multi-layered client-server neural-net",
+    "bs": "harness real-time e-market"
+  }
+}
