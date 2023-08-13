@@ -9,7 +9,6 @@ import java.util.List;
 public class CrudFunctionTest {
     public static void main(String[] args) throws IOException, InterruptedException {
         CrudFunction crudFunction = new CrudFunction();        // створюємо клас
-        //String filePath = "./src/files/file.json";
 
         String newUser = crudFunction.createUser("./src/files/filex.json");  // 1 завдання створення юзера
         System.out.println("Create user:\n" + newUser);

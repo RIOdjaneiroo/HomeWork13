@@ -85,7 +85,7 @@ public class CrudFunction {
 
         try (FileWriter output = new FileWriter(jsonFilePath)) {
             gson.toJson(userList, output);
-            System.out.println("Користувача збережено " + jsonFilePath);
+            System.out.println("Користувачів збережено " + jsonFilePath);
         } catch (IOException e) {
             System.out.println("Error saving users to file");
         }
